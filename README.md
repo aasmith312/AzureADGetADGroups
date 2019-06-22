@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Call Graph API from a JavaScript Single Page Application using msal.js
 ===========================================================
 
@@ -11,3 +12,7 @@
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/azure-active-directory) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before.
 
 Copyright (c) Microsoft Corporation.  All rights reserved. Licensed under the MIT License (the "License");
+=======
+# AzureADGetADGroups
+100% Javascript version to Get AD groups from Azure AD.  Took base sample and made small tweak.
+>>>>>>> a2df9569ce3ab4525574309bd16940740e84bd0e
